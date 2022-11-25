@@ -1851,7 +1851,7 @@ GameObject:
   - component: {fileID: 1531865967}
   - component: {fileID: 1531865966}
   m_Layer: 0
-  m_Name: End (Idle)
+  m_Name: FinishLine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
